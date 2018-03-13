@@ -5,7 +5,7 @@ This is a bot I created for the Flash discord to record wallet addresses for Fla
 
 Features two commands.
 
-Flash!Name, Flash!Token
+Flash!Name and Flash!Token
 
 Flash!Name checks to see if your name is in the spreadsheet record.
 
